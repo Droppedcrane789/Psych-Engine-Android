@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BLUE_assets.png" width="4329" height="1894">
+  <SubTexture name="up0000" x="0" y="0"  width="500" height="969" frameX="-259" frameY="-14" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="AMONG0000" x="0" y="969"  width="600" height="925" frameX="-49" frameY="-58" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="left0001" x="500" y="0"  width="541" height="921" frameX="-163" frameY="-66" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="left0000" x="600" y="921"  width="520" height="914" frameX="-198" frameY="-73" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="up0001" x="1041" y="0"  width="554" height="910" frameX="-247" frameY="-73" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="idle0001" x="1120" y="910"  width="464" height="907" frameX="-272" frameY="-78" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="right0001" x="1584" y="910"  width="542" height="905" frameX="-370" frameY="-78" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="AMONG0001" x="1595" y="0"  width="570" height="904" frameX="-88" frameY="-79" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="idle0000" x="2126" y="904"  width="466" height="903" frameX="-269" frameY="-80" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="right0000" x="2165" y="0"  width="559" height="894" frameX="-381" frameY="-89" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="spinDash0000" x="2592" y="894"  width="644" height="641" frameX="-161" frameY="-243" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="down0000" x="2724" y="1535"  width="736" height="299" frameX="-84" frameY="-678" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="dead0000" x="3460" y="1535"  width="869" height="265" frameX="-41" frameY="-733" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="spinDash0001" x="2724" y="0"  width="634" height="638" frameX="-170" frameY="-237" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="down0001" x="2724" y="638"  width="906" height="252" frameX="-0" frameY="-725" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="spinDash0002" x="3358" y="0"  width="641" height="627" frameX="-153" frameY="-237" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>
